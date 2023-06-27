@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+adrian:
+  name: Adrian
+  email: adrian@acme.com
+
+chantel:
+  name: Chantel
+  email: chantel@acme.com
+
+daniel:
+  name: Daniel
+  email: daniel@acme.com
+
+sarah:
+  name: Sarah
+  email: sarah@acme.com
